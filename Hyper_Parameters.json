@@ -8,7 +8,7 @@
         "Max_Abs_Mel": 4
     },
 
-    "Token_JSON_Path": "/content/drive/My Drive/GST_Tacotron/Token_Index_Dict.ENG.json",
+    "Token_JSON_Path": "Token_Index_Dict.ENG.json",
 
     "GST": {
         "Use": true,
