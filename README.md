@@ -1,3 +1,5 @@
+This code belongs to https://github.com/CODEJIN/GST_Tacotron
+
 # GST Tacotron in TF2
 
 This code is an implementation of the paper 'Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis'. The algorithm is based on the following papers:
