@@ -1,0 +1,2 @@
+Checkpoint filter=lfs diff=lfs merge=lfs -text
+S_36000.CHECKPOINT.* filter=lfs diff=lfs merge=lfs -text
